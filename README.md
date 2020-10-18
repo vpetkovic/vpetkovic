@@ -1,8 +1,8 @@
 # Hi there <img src="https://raw.githubusercontent.com/vpetkovic/vpetkovic/main/wave.gif" width="30px">
-<hr/> 
-I am Voja (👅 /vɔɪæ/) and I am passionate and commited full stack  developer with 1️⃣ main goal: **Make everyday life easier**
 
-Nowadays, I am primarily focused on delivering custom web apps and CLIs to help businesses automate their workflows which will increase their efficiency, productivity and ROI while decreasing operational costs.
+🧑 I am Voja (👅 /vɔɪæ/) and I am passionate and commited full stack  developer with 1️⃣ main goal: **Make everyday life easier**  
+
+📅 Nowadays, I am primarily focused on delivering custom web apps and CLIs to help businesses automate their workflows which will increase their efficiency, productivity and ROI while decreasing operational costs.
 
 <!-- [![GitHub Stats 📈](https://github-readme-stats.vercel.app/api?username=vpetkovic&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
