@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/vpetkovic/vpetkovic/main/wave.gif" width="30px">
+# Hi there  <img src="https://raw.githubusercontent.com/vpetkovic/vpetkovic/main/wave.gif" width="30px">
 
 🧑 I am Voja (👅 /vɔɪæ/) and I am passionate and commited full stack  developer with 1️⃣ main goal: **Make everyday life easier**  
 
