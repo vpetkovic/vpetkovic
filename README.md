@@ -8,7 +8,7 @@
 🔭 I’m currently working on dedicated schedule for 2021 in order to be able to contribute more to community projects I beleive in (which there are a lot).  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpetkovic&count_private=true&show_icons=true&hide=stars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![This week I spent time on:](https://github-readme-stats.vercel.app/api/wakatime?username=vpetkovic)](https://github.com/anuraghazra/github-readme-stats) -->
+[![This week I spent time on:](https://github-readme-stats.vercel.app/api/wakatime?username=vpetkovic)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vpetkovic/vpetkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
