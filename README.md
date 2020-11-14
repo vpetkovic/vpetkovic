@@ -2,7 +2,7 @@
 
 🧑 I am Voja (👅 /vɔɪæ/) and I am passionate and commited full stack  developer with 1️⃣ main goal: **Make everyday life easier**  
 
-📅 Nowadays, I am primarily focused on delivering custom web apps and CLIs to help businesses automate their workflows which will increase their efficiency, productivity and ROI while decreasing operational costs.
+📅 Nowadays, I am primarily focused on delivering custom web apps and CLIs to help businesses automate their workflows which will increase their efficiency, productivity and ROI while reducing operational costs.
 
 ## Not so impressive stats 📈, but if it matters to you 😀
 🔭 I’m currently working on dedicated schedule for 2021 in order to be able to contribute more to community projects I beleive in (which there are a lot).  
