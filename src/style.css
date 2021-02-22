@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono:400,400i,700,700i');
+
+*{
+  box-sizing:border-box;
+  font-family: 'Space Mono', monospace;
+  font-weight: 400;
+  overflow: hidden;
+}
+
+.hero {
+  min-height: 300px;
+  width: 100%;
+  overflow: hidden;
+  background: url(https://hd.unsplash.com/photo-1469719847081-4757697d117a) ;
+  background-size: cover;
+}
+body {
+  margin: 0px;
+  color: #585E62;
+  font-family: Arial;
+}
+h1 {
+  padding: 10px;
+  margin: 20px 30px 5px 30px;
+  font-size: 40px;
+}
+h2 {
+  padding: 10px;
+  margin: 0px 30px;
+  font-size: 25px;
+}
+p {
+  padding: 10px;
+  margin: 0px 30px;
+  font-size: 15px;
+}
+a {
+  color : #4466FF;
+  text-decoration: none;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
