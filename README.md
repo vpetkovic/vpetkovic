@@ -5,7 +5,7 @@
 📅 Nowadays, I am primarily focused on delivering custom web apps and CLIs to help businesses automate their workflows which will increase their efficiency, productivity and ROI while reducing operational costs.
 
 ## Not so impressive stats 📈, but if it matters to you 😀
-🔭 I’m currently working on dedicated schedule for 2021 in order to be able to contribute more to community projects I beleive in (which there are a lot).  
+🔭 I’m yet to create dedicated schedule that will allow me to contribute more and consistently to community projects I believe in and use or regular basis.  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpetkovic&count_private=true&show_icons=true&hide=stars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![This week I spent time on:](https://github-readme-stats.vercel.app/api/wakatime?username=vpetkovic)](https://github.com/anuraghazra/github-readme-stats) -->
