@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on dedicated schedule that will allow me to contribute more and consistently to community projects I believe in and use or regular basis.
-- 👯 I’m looking to collaborate on fitness application I am developing that I would like to turn into an open-source. Message me if you are gym rat and a developer at the same time 😁
+- 👯 I’m looking to collaborate on fitness application I am developing. Reach out to me if you are a passionate gym rat and a developer at the same time and want to discuss opportunities 🚀
 - 📫 How to reach me: [@vitness.me](https://instagram.com/vitness.me)
  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpetkovic&count_private=true&show_icons=true&hide=stars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
