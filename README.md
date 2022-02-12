@@ -1,14 +1,15 @@
 # Hi there  <img src="https://raw.githubusercontent.com/vpetkovic/vpetkovic/main/wave.gif" width="30px">
 
-🧑 I am Voja (👅 /vɔɪæ/) and I am passionate and commited full stack  developer with 1️⃣ main goal: **Make everyday life easier**  
+🧑 I am Voja (👅 /vɔɪæ/) and by profession I am a [Systems Manager](https://bestaccreditedcolleges.org/articles/information-systems-manager-job-description-duties-and-requirements.html) and full stack developer with 1️⃣ main goal: **Make everyday life easier** for myself and others.  
 
-📅 Nowadays, I am primarily focused on delivering custom web apps and CLIs to help businesses automate their workflows which will increase their efficiency, productivity and ROI while reducing operational costs.
+📅 As developer I am primarily focused on delivering custom web apps and CLIs to help businesses automate their workflows which will increase their efficiency, productivity and ROI while reducing operational costs.
 
-## Not so impressive stats 📈, but if it matters to you 😀
-🔭 I’m yet to create dedicated schedule that will allow me to contribute more and consistently to community projects I believe in and use or regular basis.  
+
+- 🔭 I’m currently working on dedicated schedule that will allow me to contribute more and consistently to community projects I believe in and use or regular basis.
+- 👯 I’m looking to collaborate on fitness application I am developing that I would like to turn into an open-source. Message me if you are gym rat and a developer at the same time 😁
+- 📫 How to reach me: [@vitness.me](https://instagram.com/vitness.me)
+ 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpetkovic&count_private=true&show_icons=true&hide=stars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![This week I spent time on:](https://github-readme-stats.vercel.app/api/wakatime?username=vpetkovic)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **vpetkovic/vpetkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
