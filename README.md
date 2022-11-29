@@ -1,6 +1,6 @@
 # Hi there  <img src="https://raw.githubusercontent.com/vpetkovic/vpetkovic/main/wave.gif" width="30px">
 
-🧑 I am Voja (👅 /vɔɪæ/) and by profession I am a [Systems Manager](https://bestaccreditedcolleges.org/articles/information-systems-manager-job-description-duties-and-requirements.html) and full stack developer with 1️⃣ main goal: **Make everyday life easier** for myself and others.  
+🧑 I am Voja (👅 /vɔɪæ/) and by profession I am a [full stack developer](https://www.indeed.com/career-advice/finding-a-job/full-stack-developer-definition) with 1️⃣ main goal: **Make everyday life easier** for myself and others.  
 
 📅 As developer I am primarily focused on delivering custom web apps and CLIs to help businesses automate their workflows which will increase their efficiency, productivity and ROI while reducing operational costs.
 
